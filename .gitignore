@@ -1,9 +1,15 @@
 # Distribution / packaging
 Lib
 Scripts
+.vscode
 
 # settings
 src/config.py
 
 # Environments
 pyvenv.cfg
+
+__pycache__
+config
+config.py
+*.log
